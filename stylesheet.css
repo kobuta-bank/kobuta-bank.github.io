@@ -91,7 +91,6 @@ header{
 
 .profile-contents{
     height: 700px; 
-    width: 250%;
 }
 
 .profile-icon{
@@ -160,7 +159,6 @@ header{
 
 .hobby-contents{
     margin-bottom: 70px;
-    width: 250%;
 }
 
 .sns-contents{
@@ -193,3 +191,5 @@ header{
 .fa-youtube{
     padding-right: 10px;
 }
+
+
