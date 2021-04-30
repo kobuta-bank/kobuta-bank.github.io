@@ -7,7 +7,8 @@ h1, h2, h3, h4, h5, h6, p, div {
 
 body {
   font-family: 'Hiragino Kaku Gothic ProN W3', sans-serif;
-  background-color:rgba(221, 221, 221, 0.4)
+  background-color:rgba(221, 221, 221, 0.4);
+  
 }
 
 li {
@@ -90,6 +91,7 @@ header{
 
 .profile-contents{
     height: 700px; 
+    width: 250%;
 }
 
 .profile-icon{
@@ -158,6 +160,7 @@ header{
 
 .hobby-contents{
     margin-bottom: 70px;
+    width: 250%;
 }
 
 .sns-contents{
